@@ -134,7 +134,7 @@ public class Main {
         long totalBefore = (masha + denis + kristina) * year;
         System.out.println("До увеличения зарплата за год у 3 была такова: " + totalBefore);
         long totalAffter = (mashaAffter + denisAffter +kristinaAffter) * year;
-        System.out.println("После увеличения зп за год у 3 стала такой: " + totalAffter);
+        System.out.println("После увеличения зп за год у 3 стала таковой: " + totalAffter);
 
 
 
